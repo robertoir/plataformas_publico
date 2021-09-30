@@ -1,0 +1,10 @@
+float32 presa_x
+float32 presa_y
+float32 presa_theta
+float32 depredador_x
+float32 depredador_y
+float32 depredador_theta
+---
+float32 lineal_depredador
+float32 angular_depredador
+float32 distancia
